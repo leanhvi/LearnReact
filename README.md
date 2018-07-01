@@ -1,4 +1,5 @@
 # This Project is copy and modified from ReduxSimpleStarter
+# For learning React
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
