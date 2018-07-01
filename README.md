@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# This Project is copy and modified from ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
